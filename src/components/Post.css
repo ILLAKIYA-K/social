@@ -1,0 +1,32 @@
+/* /src/styles/Post.css */
+.post {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .post-header {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .profile-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  
+  .post-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  .post-video {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  
